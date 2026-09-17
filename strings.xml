@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alerta CV Meteo</string>
+    <string name="alert_header">⚠️ ALERTA CV METEO</string>
+    <string name="alert_subtitle">Aplicación de alertas meteorológicas de la Comunidad Valenciana.</string>
+    <string name="btn_view_alerts">VER ALERTAS</string>
+    <string name="btn_112">EMERGENCIAS 112</string>
+    <string name="nav_inicio">Inicio</string>
+    <string name="nav_mapa">Mapa</string>
+    <string name="nav_prevision">Previsión</string>
+    <string name="nav_alertas">Alertas</string>
+    <string name="nav_ajustes">Ajustes</string>
+    <string name="demo_label">MODO DEMO</string>
+</resources>
